@@ -34,7 +34,7 @@ https://drive.google.com/drive/folders/18-DL6QyK9ED3Csk1xwb53GO5nrCO3gkZ?usp=sha
 ### Quality Metrics
 
 <p align="center">
-  <img width="460" height="300" src="Outputs/Quality/Quality_metrics.png">
+  <img width="460" height="300" src="Outputs/Quality/Quality_Metrics.png">
 </p>
 
 
